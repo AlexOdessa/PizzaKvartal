@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pizza Kvartal</string>
+    <string name="addressAndContacts">Contacts</string>
+    <string name="address1">Marshala Hovorova St, 18</string>
+    <string name="address2">Akademika Zabolotnoho St, 52</string>
+    <string name="address3">Preobrazhens\'ka St, 62</string>
+    <string name="address4">Dobrovol\'s\'koho Ave, 129</string>
+    <string name="address5">Zhukovs\'koho St, 31</string>
+    <string name="address6">Lenina St, 20b, Illichivs\'k</string>
+    <string name="address7">Katerynyns\'ka St, 8/10</string>
+    <string name="address8">Preobrazhens\'ka St, 55</string>
+    <string name="address9">Derybasivs\'ka St, 26</string>
+    <string name="actionS">Actions</string>
+    <string name="clearCart">Clear</string>
+    <string name="confirmText">Confirm</string>
+    <string name="cart">Cart</string>
+    <string name="ordersumText">Order sum:</string>
+    <string name="textName">NAME</string>
+    <string name="textAddress">ADDRESS</string>
+    <string name="phoneNumberText">PHONE</string>
+    <string name="order">Order</string>
+    <string name="sendText">Send</string>
+    <string name="deliveryPhone">(048) 705 5 705</string>
+    <string name="deliveryText">Delivery daily from 11:00 to 23:00</string>
+    <string name="sendPositive">Your order has been sent.\nSoon, our operator will call you back</string>
+    <string name="send2arch">Save order and clear cart</string>
+    <string name="delivery">Delivery conditions</string>
+   <string name="feedback">Feedback</string>
+   <string name="myOrders">My orders</string>
+   <string name="orderFromString">Order from</string>
+   <string name="repeatOrderString">Add to cart</string>
+   <string name="emptyCartString">The cart is empty</string>
+   <string name="deleteString">delete</string>
+   <string name="noOrdersString">You still don\'t have orders</string>
+   
+ 
+   
+  
+</resources>

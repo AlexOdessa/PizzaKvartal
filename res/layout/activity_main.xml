@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fon2"
+    android:orientation="vertical" >
+
+<FrameLayout
+    android:id="@+id/mainFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_weight="1"
+    android:background="@drawable/ital_fon"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp" >
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/mainFragment"
+        android:layout_weight="6"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/menuButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/menublack" />
+
+        <ImageButton
+            android:id="@+id/actionButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/actionsblack" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <ImageButton
+                android:id="@+id/cartButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:maxLines="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/cartblack" />
+
+            <TextView
+                android:id="@+id/quantityDish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/cartnumber"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="@color/white"
+                android:visibility="invisible" />
+
+        </RelativeLayout>
+
+        <ImageButton
+            android:id="@+id/addressButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/addressblack" />
+
+        <ImageButton
+            android:id="@+id/moreButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="1"
+            android:scaleType="fitCenter"
+            android:src="@drawable/moreblack" />
+
+    </LinearLayout>
+</LinearLayout>

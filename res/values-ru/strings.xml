@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Итальянский квартал</string>
+    <string name="addressAndContacts">Адреса и контакты</string>
+    <string name="address1">ул. Маршала Говорова, 18</string>
+    <string name="address2">ул. Заболотного, 52</string>
+    <string name="address3">ул. Преображенская, 62</string>
+    <string name="address4">ул. Добровольского, 129</string>
+    <string name="address5">ул. Жуковского, 31</string>
+    <string name="address6">г. Ильичевск, ул. Ленина, 20б </string>
+    <string name="address7">ул. Екатериненская, 8/10 </string>
+    <string name="address8">ул. Преображенская, 55 </string>
+    <string name="address9">ул. Дерибасовская, 26</string>
+    <string name="actionS">Акции</string>
+    <string name="clearCart">Очистить</string>
+    <string name="confirmText">Заказать</string>
+    <string name="cart">Корзина</string>
+    <string name="ordersumText">Заказ на сумму:</string>
+    <string name="textName">ИМЯ</string>
+    <string name="textAddress">АДРЕС</string>
+    <string name="phoneNumberText">ТЕЛЕФОН</string>
+    <string name="order">Заказ</string>
+    <string name="sendText">Отправить</string>
+    <string name="deliveryText">Доставка ежедневно с 11:00 до 23:00</string>
+    <string name="sendPositive">Ваш заказ отправлен.\nВ ближайшее время Вам перезвонит оператор.</string>
+    <string name="sendNegative">Ваш заказ не удалось отправить.\nПопробуйте еще раз или перезвоните нам.</string>
+    <string name="sendPositiveFeedback">Ваше сообщение отправлено.\nМы обязательно отреагируем.</string>
+    <string name="sendNegativeFeedback">Ваше сообщение не отправлено.\nПопробуйте еще раз или перезвоните нам.</string>
+    <string name="send2arch">Сохранить заказ и очистить корзину</string>
+    <string name="deliveryString">Если Вы проголодались, пицца – самый простой способ решить эту проблему! 
+        Помимо пиццы вы также можете заказать любое блюдо из нашего ресторана, которое вы можете выбрать в меню.\n
+        Благодаря тому, что "Итальянский квартал" имеет большую сеть ресторанов, это позволяет доставить 
+        Ваш заказ в кротчайшие сроки в любую точку г. Одессы и Ильичевска.\n
+        \nСделай заказ прямо сейчас и мы в любое подходящее время суток привезем Вам вкуснейшую пиццу.</string>
+    <string name="deliveryString2"> - Единый номер доставки - (048) 705 5 705\n\n
+        - Минимальная стоимость заказа меняется на сумму от 100 до 200 грн. 
+        в зависимости от района города и расстояния до места доставки</string>
+    <string name="delivery">Условия доставки</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="feedbackText">Свои пожелания Вы можете отправить с помощью формы обратной связи:</string>
+    <string name="orderFromString">Заказ от</string>
+    <string name="myOrders">Мои заказы</string>
+<string name="repeatOrderString">Добавить в корзину</string>
+<string name="emptyCartString">Корзина пустая</string>
+ <string name="deleteString">удалить</string>
+  <string name="noOrdersString">У Вас еще нет заказов</string>
+</resources>
